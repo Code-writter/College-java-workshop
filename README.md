@@ -30,8 +30,9 @@ Menbers of class
 ** Problem in c/cpp
 they are system dependent 
 
-to fix this problem 
-The Sun Micro System
+to fix this problem
+
+The Sun Micro System (presently Oracle)
 by James Gosling
 
 and maked a language named :- OAK language
@@ -48,7 +49,7 @@ later but this language name changed to JAVA(1995)
 *   Java is compiled-interpreted-compile
 *   Multithreaded Environment
 *   Portable
-*   
+   
 
 {! Why c\cpp is a platform dependent
 
@@ -74,5 +75,42 @@ Java is more secure than other languages bcz its program run through JRE (java r
 ![Draw](README.m\725a2eec-b344-88f1-5a9b-1041a4e7695e.svg)
 
 
+How to create object in java
+
+classname referencevariable = new classname();
+                \
+            identifier
+Ex:-
+    Foo f=new Foo();
+
+JDK (java development environment)
+
+JRE (java runtime environment)
+
+JVM (java virtual machine)
+
+
+* variabls
+    they are of two types 
+
+        1 local  => only accasible inside the scope of specific block
+        2 Global =>  a variable which is shared by all the methos of the class and it can be accessed out side of the class if variable is public  (accasibble throughout the programme) 
+
+        Global variable are of two types
+            Instance var or non static var
+            class var or static var
+
+* Diff btw static and non static variable
+
+
+![Variable](README.m\ab54b867-4d2b-4122-3f85-b5b94e9bd48b.svg)
+
+
+![with static varible](README.m\255d3e8b-7354-e45a-cbc5-09a9fd0b11d2.svg)
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+### Day : 2
 
 
