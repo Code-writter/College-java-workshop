@@ -101,7 +101,8 @@ JVM (java virtual machine)
             class var or static var
 
 * Diff btw static and non static variable
-
+    static variable is a part of class 
+    Non-static variable is a part of object 
 
 ![Variable](README.m\ab54b867-4d2b-4122-3f85-b5b94e9bd48b.svg)
 
@@ -109,7 +110,7 @@ JVM (java virtual machine)
 ![with static varible](README.m\255d3e8b-7354-e45a-cbc5-09a9fd0b11d2.svg)
 
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 
 
