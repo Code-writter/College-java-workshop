@@ -2,14 +2,14 @@
 
 Hint :- class bank
 
-###### How to set path in java
+### How to set path in java
 find java bin in jdk folder 
 copy path 
 open control panel -> sys security and find Environment variable 
 edit envi variabl -> in User variable edit path and add new path
 ok -> ok -> ok
 
-###### Methods
+### Methods
 are of two types : 
 * Static => called on class name
 * Non static => call on object name
@@ -46,6 +46,12 @@ are of two types :
             f.m();
         }
 *   }
+
+### constructor
+
+
+Run time value is accessed by utils class
+
 
 
 
