@@ -26,3 +26,4 @@ class Polymorphism{
         f.m(10, 20);
     }
 }
+

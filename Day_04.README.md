@@ -28,7 +28,26 @@ types of polymorphism
       achived through method overiding => Changing the definition of existing method in child class
       then we have to write same name and parameter of paraent class in child class and this is called method overriding.
 
- 
 
+* Dynamic polymorphic Assignment (DPA)
+
+when we assign a child class obj into parent class reference variable is known as DPA
+by the help of DPA we get run time polymorphism
+
+Abstract class => a class which we cannot instantiate is knowm as abstract class
+the class whose object we cannot creat is known as abstract class
+
+An abstract class may have abstract method 
+
+
+* How to call a constructor of abstract class
+
+
+* Abstract Method => A method which do not have a body is known as abstract method.
+
+ utility of abstarct class => 
+
+* Interview Question : if we make constructor in abstract how we call it
+we make a child class and make a object of child class 
 
 
