@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Fest {
+ class Fest {
     public static void main(String arg[]){
         String str2 = "Ankit";
         String str1 = new String("Hello");
@@ -31,7 +31,7 @@ class Fest {
 
         str = str.toUpperCase()
         System.out.println(str);
-
+          
   
     }
 }
