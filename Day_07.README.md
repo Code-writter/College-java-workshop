@@ -24,4 +24,45 @@ package private access modifiers (default)
 protected  access modifiers
 private  access modifiers
 
-                                                                                                                                     
+
+# Java DB connectivity (mySQL)
+
+* Types of computer applicatiion        
+    * Console based application (CLI)       
+    * Desktop application       
+    * Shared Desktop application        
+    * Web application       
+
+* What is Data Base         
+ collection of information 
+
+    Computer with db => server
+    computer connected to server => client          
+     
+
+* How web application works                         
+
+* MVC (model view controller) Architecture
+
+* Collection (interface) 
+
+        1. List
+
+            * ArrayList                                                                         
+            * LinkedList                                                                            
+            * Vector                                                                            
+        2. Queue
+
+            * Priority Queue                                                                            
+            * Deque                                                                         
+                * Array Deque                                                                           
+        3. Set
+
+            * HashSet                                                                           
+            * LinkedHahSet                                                                          
+            * SortedSet                                                                         
+                *Tree Set                                                                           
+
+* Wrapper Class             
+
+
