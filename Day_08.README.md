@@ -59,4 +59,16 @@ We played a bit changing the storing logic of few code samples with mysql and al
 
     It is an overview relation of how data is stored in DB. 
 
-      
+
+1. Load the driver 
+    Class.forname("driver")
+
+2. create connection 
+    connection cn Driver.getconnection
+    ("url", username, "password")
+
+3. make statement obj
+
+4. execute query
+
+5. close connection
