@@ -53,3 +53,10 @@ We played a bit changing the storing logic of few code samples with mysql and al
    It is likely that at some point, we will move to a database because we would have reached a bottleneck in terms of volume which would be more easily manageable with a database than with arrays but we are not there yet.
 
     So far I have to say that I am very impressed by how efficient and easy manipulating arrays can be.
+
+
+# Entity Relationship diagram
+
+    It is an overview relation of how data is stored in DB. 
+
+      
